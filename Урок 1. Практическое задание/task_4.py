@@ -11,6 +11,7 @@
 Самая большая цифра в числе: 9
 """
 
+
 enter_number = int(input("Ведите целое положительное число: "))
 if enter_number > 0:
     max_digit = 0

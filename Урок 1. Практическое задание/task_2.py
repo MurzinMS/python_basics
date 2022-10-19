@@ -10,6 +10,7 @@
 Время в формате ч:м:с - 1.0 : 60.0 : 3600
 """
 
+
 seconds = int(input("Введите время в секундах: "))
 hours = seconds / 3600.0
 minutes = seconds / 60.0

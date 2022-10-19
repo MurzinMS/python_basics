@@ -10,6 +10,7 @@ n + nn + nnn = 369
 """
 
 
+
 n = int(input("Введите число n: "))
 if n > 0:
     nn = f"{n}{n}"
